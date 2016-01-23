@@ -1,0 +1,12 @@
+name: Xitron
+version: 0.0.1
+main: fr.ozedev.xitron.Xitron
+commands:
+  hub:
+    description: Pour aller a l'hub
+    usage: /hub
+    aliases:
+    - lobby
+  snow:
+    description: Pour aller a l'hub
+    usage: /snow <start>
